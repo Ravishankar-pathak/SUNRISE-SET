@@ -21,5 +21,3 @@ This program calculates the sunrise and sunset times based on user-provided GPS 
 gcc sunrise_sunset.c -o sun
 ./sun
 
-
-<img width="1443" height="552" alt="Screenshot from 2025-07-24 14-50-53" src="https://github.com/user-attachments/assets/030349d0-4e5b-400e-8404-2f2bf76a676e" />
